@@ -1,0 +1,20 @@
+{
+  "profil": [
+    {
+      "id": 1,
+      "title": "Admin"
+    },
+    {
+      "id": 1,
+      "title": "Formateur"
+    },
+    {
+      "id": 3,
+      "title": "Apprenant"
+    },
+    {
+      "id": 4,
+      "title": "CM"
+    }
+  ]
+}
